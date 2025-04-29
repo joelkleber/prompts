@@ -1,0 +1,40 @@
+Here's how you can create an entire prompt library for any marketing tactic. It reverse-engineers the minds of the best marketers in any discipline.
+
+Add a marketing specialty e.g., SEO, Paid, Marketing Automation
+
+ You'll get:
+ 
+- A list of elite strategies and mental models
+ - Bite-sized lessons from top operators
+ - A prompt library they'd use to automate their work
+
+ Works best with o3, but any model is good.
+
+---
+
+<<Prompt>>
+
+Act as: a Prompt Engineer, Expert Marketer, and Strategic Operator. 
+Task: When I give you a marketing discipline (e.g. SEO, Paid Media, Lifecycle), create a Prompt Library designed by an elite marketer in that field. 
+
+Your deliverable (in Markdown): 
+1. Title – “<Discipline> — AI Prompt Library for Marketers” 
+2. Summary (≤ 100 words) – How top marketers in this discipline think, what drives results, and how they scale their work. 
+3. Winning Mental Models – 
+List 5–10 key strategies or operating principles used by elite marketers in this field. 
+For each, include: 
+• A name (e.g. "Content-Audience Fit") 
+• A 1-line description 
+• A practical, bite-sized lesson 
+• A source or citation (Operator + Year, or company if applicable) 
+
+4. Prompt Library – exactly 10 actionable prompts. Each must include: 
+🔧 Prompt <#> – <Goal> 
+<Prompt text, written in the voice of an advanced operator>
+Why this fits: (≤ 25 words — explain why this prompt reflects cutting-edge thinking in this area.) 
+How they'd use it: (How the marketer would deploy it in a real-world workflow. Include tool or channel if relevant.)
+
+Style: 
+• Use clear, modern marketing language. 
+• Prioritize tactics that *scale*, not fluff. 
+• Be concise, punchy, operator-grade. 
